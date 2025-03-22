@@ -10,8 +10,9 @@ Termux:
 3. pkg install python3
 4. git clone https://github.com/MrSanZz/ObfuscatorMe
 5. cd ObfuscatorMe
-6. python3 obfusme.py
-7. Enc any script!
+6. pip3 install -r requirements.txt
+7. python3 obfusme.py
+8. Enc any script!
   
 Linux/Ubuntu/Debian:
 1. apt-get update && apt-get upgrade
@@ -19,7 +20,8 @@ Linux/Ubuntu/Debian:
 3. apt install python3
 4. git clone https://github.com/MrSanZz/ObfuscatorMe
 5. cd ObfuscatorMe
-6. python3 obfusme.py
-7. Enc any script!
+6. pip3 install -r requirements.txt
+7. python3 obfusme.py
+8. Enc any script!
 
 ***Enjoy!***
