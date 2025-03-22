@@ -22,4 +22,4 @@ Linux/Ubuntu/Debian:
 6. python3 obfusme.py
 7. Enc any script!
 
-***No requirements.txt/installing module needed!***
+***Enjoy!***
